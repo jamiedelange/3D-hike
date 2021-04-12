@@ -11,7 +11,7 @@
   * [Licenses](#licenses)
 
   # Usage Information
-  Type any state name into the search bar to view the requested information.
+  Deployed at: https://jamiedelange.github.io/3D-hike/ Type any state name into the search bar to view the requested information.
 
   # Licenses
   ![license badge](https://img.shields.io/badge/license-MIT-blue)
